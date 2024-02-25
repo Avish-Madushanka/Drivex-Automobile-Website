@@ -7,4 +7,5 @@
   <li>Classic Cars</li>
   <li>Sports Cars</li>
   <li>Luxury Cars</li>
+  <li>New Arrivals</li>
 </ul>
