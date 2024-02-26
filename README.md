@@ -12,5 +12,5 @@
 
 <h3>Languages Used:</h3>
 <ul>
-  <ol>FrontEnd:</ol>
+  <ol>FrontEnd: HTML, CSS, JS, Bootstrap</ol>
 </ul>
