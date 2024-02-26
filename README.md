@@ -9,3 +9,5 @@
   <li>Luxury Cars</li>
   <li>New Arrivals</li>
 </ul>
+
+<h3>Details About:</h3>
