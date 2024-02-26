@@ -13,5 +13,6 @@
 <h3>Languages Used:</h3>
 <ul>
   <ol>Frontend:
+    <li>HTML</li>
 </ol>
 </ul>
