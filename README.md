@@ -10,4 +10,4 @@
   <li>New Arrivals</li>
 </ul>
 
-<h3>Details About:</h3>
+<h3>Languages:</h3>
